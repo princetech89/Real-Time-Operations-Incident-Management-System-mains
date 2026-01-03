@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel - Real-Time Incident Management",
+  "description": "A high-stakes operational dashboard for real-time incident tracking, role-based access control, and mission-critical audit logging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
