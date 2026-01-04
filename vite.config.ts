@@ -8,9 +8,7 @@ export default defineConfig(({ mode }) => {
       server: {
         port: 3000,
         host: '0.0.0.0',
-         allowedHosts: [
-        "real-time-operations-incident-management-ya57.onrender.com",
-      ],
+        allowedHosts: "all",
       },
       plugins: [
         react(),
